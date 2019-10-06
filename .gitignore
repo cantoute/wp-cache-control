@@ -1,0 +1,11 @@
+
+.vscode
+
+.DS_Store
+
+*.swp
+*.orig
+*.bak
+*.tmp
+tmp
+*secret*
